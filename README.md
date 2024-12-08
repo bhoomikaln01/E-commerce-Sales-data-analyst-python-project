@@ -1,0 +1,1 @@
+This project aims to analyze and visualize e-commerce sales data using Python. It provides valuable insights into sales trends, customer behaviors, and product performance, helping businesses make informed decisions. The analysis includes exploring key metrics such as total sales, customer demographics, and product popularity
